@@ -1,0 +1,206 @@
+BANK FACTORING SERVICES – TERMS AND CONDITIONS (INDIA)
+Compiled from Major Indian Banks' Factoring Products
+Applicable Banks: SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IndusInd Bank, Yes Bank, IDFC First Bank, RBL Bank, Bank of Baroda, Punjab National Bank, Canara Bank, Union Bank, Indian Bank
+
+## 1. ELIGIBILITY CRITERIA
+
+### 1.1 Seller (Assignor) Eligibility
+(a) The seller must be a company, partnership firm, proprietorship, LLP, or MSME registered in India.
+(b) The seller must have a minimum operational history of 2 years (1 year for MSMEs on TReDS).
+(c) The seller must have a minimum annual turnover of Rs. 50 lakh (varies by bank; some banks accept Rs. 25 lakh for MSMEs).
+(d) The seller must not be listed on RBI's defaulter list or CIBIL/CRILC negative list.
+(e) The seller must have audited financial statements for the past 2 financial years.
+
+### 1.2 Buyer (Debtor) Eligibility
+(a) The buyer must be a company, PSU, or government entity with a valid credit rating.
+(b) The buyer must have a minimum credit rating of BBB (or equivalent) from a SEBI-registered credit rating agency.
+(c) The buyer must not be classified as a willful defaulter or fraud by any bank.
+(d) The buyer must accept the invoices on the factoring platform within the prescribed time (typically 7-15 business days).
+
+### 1.3 Invoice Eligibility
+(a) Minimum invoice value: Rs. 25,000 (or as specified by the bank).
+(b) Maximum invoice tenure: 180 days from the date of invoice (some banks allow up to 120 days only).
+(c) The invoice must represent a genuine trade transaction for supply of goods or services.
+(d) The invoice must not be disputed, overdue, or subject to any lien or encumbrance.
+(e) The invoice must not have been previously assigned to another factor.
+
+## 2. ACCOUNT OPENING AND DOCUMENTATION
+
+### 2.1 Required Documents (Seller)
+(a) KYC documents (PAN card, Aadhaar, passport, or voter ID of all partners/directors).
+(b) Proof of business registration (Certificate of Incorporation, GST registration, Udyam registration for MSMEs).
+(c) Audited financial statements for the last 2 financial years.
+(d) Bank statements for the last 12 months.
+(e) Board resolution authorising factoring (for companies).
+(f) List of buyers with expected monthly invoice volumes.
+(g) Sample invoices and purchase orders.
+
+### 2.2 Required Documents (Buyer)
+(a) KYC documents of authorised signatories.
+(b) Board resolution authorising participation in the factoring programme.
+(c) Credit rating certificate from a SEBI-registered agency.
+(d) Undertaking to pay the factor directly upon notice of assignment.
+
+### 2.3 Agreement Execution
+(a) Factoring Agreement: Master agreement between the seller and the factor covering all future assignments.
+(b) Deed of Assignment: Executed for each batch of invoices assigned.
+(c) Irrevocable Payment Instruction: Buyer's undertaking to pay the factor.
+(d) Security documents (if applicable): Pledge of inventory, assignment of insurance, personal guarantee of promoters.
+
+## 3. FEES AND CHARGES
+
+### 3.1 Standard Fee Structure (Indicative – Actual rates vary by bank)
+
+#### SBI Factoring
+- Discount Rate: MCLR + 1.5% to 3.0% per annum (effective rate approximately 10% to 13% p.a.)
+- Processing Fee: 0.50% of the facility amount (one-time)
+- Service Charge: 0.25% of each invoice value
+- TReDS Platform Fee: Rs. 500 per transaction
+
+#### HDFC Bank Factoring
+- Discount Rate: Repo Rate + 3.0% to 5.0% per annum (approximately 9.5% to 12% p.a.)
+- Processing Fee: 0.75% of the facility amount
+- Documentation Charges: Rs. 5,000 to Rs. 25,000 (based on facility size)
+- Late Payment Surcharge: 2% p.a. above the discount rate
+
+#### ICICI Bank Factoring
+- Discount Rate: I-MCLR + 2.0% to 4.0% per annum
+- Processing Fee: 1.0% of the facility amount (minimum Rs. 10,000)
+- Stamp Duty: As applicable under state laws
+- Annual Review Fee: Rs. 5,000
+
+#### Axis Bank Factoring
+- Discount Rate: MCLR + 2.5% to 4.5% per annum
+- Processing Fee: 0.50% to 1.0% of facility amount
+- Prepayment Penalty: Nil (if the buyer pays early)
+- Part-Assignment Fee: Rs. 1,000 per part-assignment
+
+#### Kotak Mahindra Bank Factoring
+- Discount Rate: Base Rate + 2.0% to 3.5% per annum
+- Processing Fee: 0.75% of facility amount
+- CERSAI Registration Fee: Rs. 100 per transaction
+- Legal and Valuation Charges: At actuals
+
+### 3.2 TReDS-Specific Charges
+(a) RXIL Platform:
+    - Seller Registration: Free
+    - Per-Transaction Fee: Rs. 200 to Rs. 500 (based on invoice value)
+    - Annual Maintenance: Rs. 1,000
+
+(b) M1xchange Platform:
+    - Seller Registration: Free for MSMEs
+    - Per-Transaction Fee: 0.01% to 0.05% of invoice value (minimum Rs. 100)
+    - Annual Maintenance: Rs. 2,000
+
+(c) Invoicemart Platform:
+    - Seller Registration: Rs. 500
+    - Per-Transaction Fee: 0.01% to 0.03% of invoice value
+    - Annual Maintenance: Rs. 1,500
+
+## 4. PAYMENT TERMS AND ADVANCE RATES
+
+### 4.1 Advance Rate
+(a) Banks typically advance 80% to 90% of the invoice value at the time of assignment.
+(b) The remaining 10% to 20% (margin/retention) is released after the buyer pays the full invoice amount.
+(c) For non-recourse factoring, the advance rate may be lower (70% to 85%) due to higher credit risk.
+
+### 4.2 Payment Collection
+(a) Upon assignment, the buyer is notified to make payment directly to the factor's designated account.
+(b) If the buyer pays the seller instead of the factor (post-notice), the seller must remit the payment to the factor within 2 business days.
+(c) Partial payments by the buyer are applied first towards the factor's charges, then towards the principal.
+
+### 4.3 Settlement Timeline
+(a) T+0 to T+1: Assignment and advance disbursement to seller.
+(b) T+30 to T+180: Buyer pays the factor on the due date.
+(c) T+0 to T+3 after buyer payment: Margin amount released to seller.
+(d) If buyer defaults: Recourse exercised against seller (in recourse factoring) within 7 business days.
+
+## 5. DEFAULT AND REMEDIES
+
+### 5.1 Events of Default
+(a) Buyer fails to pay within 90 days of the due date (NPA classification triggers).
+(b) Seller assigns the same invoice to multiple factors.
+(c) Seller provides fraudulent or misleading information about the receivable.
+(d) Insolvency or winding-up proceedings initiated against the seller or buyer.
+(e) Material adverse change in the financial condition of the seller or buyer.
+
+### 5.2 Remedies Available to the Factor
+(a) Recourse Factoring: Demand full repayment from the seller within 7 days of the default event.
+(b) Non-Recourse Factoring: Invoke credit insurance (if any) or absorb the loss.
+(c) File a claim with the Debt Recovery Tribunal (DRT) for amounts above Rs. 20 lakh.
+(d) Invoke SARFAESI Act provisions (if security interest is registered).
+(e) Refer the matter to arbitration or the MSME Facilitation Council.
+(f) Report the default to CIBIL/CRILC.
+
+### 5.3 Penal Charges on Default
+(a) Interest on overdue amounts: Base discount rate + 2% to 4% per annum.
+(b) Legal and recovery costs: Borne by the defaulting party.
+(c) Blacklisting: The defaulting seller/buyer may be blacklisted from the factoring platform and all participating banks.
+
+## 6. TERMINATION
+
+### 6.1 Termination by the Seller
+(a) The seller may terminate the factoring arrangement with 30 days' written notice.
+(b) All outstanding assigned receivables must be settled before termination.
+(c) Any unadjusted margin amounts will be refunded within 15 business days.
+
+### 6.2 Termination by the Factor
+(a) The factor may terminate the arrangement immediately upon:
+    - Breach of any term of the factoring agreement.
+    - Material adverse change in the seller's financial condition.
+    - Regulatory directive requiring termination.
+(b) The factor may suspend new assignments with 7 days' notice without terminating existing ones.
+
+### 6.3 Consequences of Termination
+(a) All assigned receivables remain with the factor until maturity/collection.
+(b) The seller's obligation to repay (in recourse factoring) survives termination.
+(c) Confidentiality and indemnity obligations survive for 3 years post-termination.
+
+## 7. CONFIDENTIALITY AND DATA PROTECTION
+
+### 7.1 Confidentiality Obligations
+(a) Both parties must keep all transaction details confidential.
+(b) Disclosure is permitted only:
+    - To regulatory authorities (RBI, SEBI, FIU-IND).
+    - Under court order or legal process.
+    - To credit rating agencies (with consent of the other party).
+
+### 7.2 Data Protection (DPDP Act 2023 Applicability)
+(a) The factor is a "Data Fiduciary" under the DPDP Act with respect to personal data of the seller's promoters and authorised signatories.
+(b) Consent must be obtained before processing personal data for KYC and credit assessment.
+(c) Data retention: Personal data shall be retained for a maximum of 5 years after account closure (as required by RBI KYC norms).
+(d) Data breach notification: The factor must notify the Data Protection Board within 72 hours of discovering a breach.
+
+## 8. GOVERNING LAW AND JURISDICTION
+
+### 8.1 Governing Law
+All factoring arrangements shall be governed by:
+(a) Factoring Regulation Act, 2011 (as amended 2021).
+(b) Reserve Bank of India Act, 1934.
+(c) Indian Contract Act, 1872.
+(d) Sale of Goods Act, 1930.
+(e) SARFAESI Act, 2002 (for security interest enforcement).
+(f) Digital Personal Data Protection Act, 2023 (for data-related obligations).
+(g) Arbitration and Conciliation Act, 1996 (for dispute resolution).
+
+### 8.2 Jurisdiction
+(a) Courts at the location of the factor's registered office shall have exclusive jurisdiction.
+(b) For TReDS transactions, disputes may be referred to the platform's dispute resolution mechanism before approaching courts.
+(c) MSME-related disputes shall first be referred to the MSME Facilitation Council under the MSME Development Act, 2006.
+
+## 9. SPECIAL CONDITIONS FOR MSMEs
+
+### 9.1 MSME Payment Protection
+(a) Under MSME Development Act 2006, buyers must pay MSME suppliers within 45 days of acceptance of goods/services.
+(b) Delayed payment attracts interest at 3x the bank rate notified by RBI.
+(c) MSMEs can file complaints with the MSME Facilitation Council for recovery.
+
+### 9.2 TReDS Benefits for MSMEs
+(a) Government mandate: All CPSEs (Central Public Sector Enterprises) with turnover above Rs. 500 crore must onboard TReDS.
+(b) GST-registered MSMEs get priority for TReDS registration.
+(c) Interest rates on TReDS are typically 2-3% lower than traditional bank factoring because financing is based on the buyer's credit rating.
+
+### 9.3 MSME Factoring Limits
+(a) Single invoice limit: Up to Rs. 2 crore on TReDS.
+(b) Aggregate limit per MSME: Based on the buyer's approved credit limit (no statutory cap for MSMEs).
+(c) No collateral required for TReDS-based factoring (unsecured).

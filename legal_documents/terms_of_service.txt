@@ -1,0 +1,38 @@
+# TERMS OF SERVICE - QUICK REFERENCE GUIDE
+
+Version: 2.0
+Effective: January 1, 2024
+
+## QUICK REFERENCE
+
+| Topic | Details |
+|-------|---------|
+| Service Uptime | 99.5% monthly uptime guarantee |
+| Response Time | Support responses within 24 hours |
+| Account Termination | User may terminate with 60 days notice |
+| Liability Cap | Limited to 12 months of fees paid |
+| Warranty Period | 30-day money-back guarantee |
+| Support Hours | 24/5 support (weekdays 9-5 PT) |
+| Maximum Users | Determined by subscription tier |
+| Data Backup | Daily backups retained for 30 days |
+
+## PROHIBITED USES
+
+Users may not use Services for:
+- Illegal activities
+- Hacking or unauthorized access
+- Malware or viruses
+- Harassment or abuse
+- Spam or unsolicited communications
+- Copyright or IP infringement
+- Reverse engineering
+
+## INTELLECTUAL PROPERTY
+
+- Customer retains ownership of Customer Data
+- Company retains ownership of Service and improvements
+- Company may use Customer Data for service improvement (anonymized)
+
+## AMENDMENTS
+
+Company may modify Terms with 30 days notice. Continued use constitutes acceptance.

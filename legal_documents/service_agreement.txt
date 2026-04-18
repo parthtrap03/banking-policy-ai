@@ -1,0 +1,117 @@
+# MASTER SERVICE AGREEMENT
+
+Effective Date: January 1, 2024
+Parties: Your Company Inc. and Customer
+Last Updated: 2024-01-15
+
+## 1. TERMS OF SERVICE
+
+1.1 Service Provision
+The Company agrees to provide cloud-based software services ("Services") as described in the applicable Statement of Work (SOW). Services include hosting, maintenance, support, and updates as outlined in Appendix A.
+
+1.2 Service Availability
+The Company guarantees 99.5% uptime measured monthly, excluding scheduled maintenance and events beyond reasonable control. Emergency maintenance may occur with 4 hours notice.
+
+1.3 User Responsibilities
+The Customer is responsible for:
+- Maintaining accurate account information
+- Protecting login credentials
+- Ensuring compliance with applicable laws
+- Proper use of Services in accordance with this Agreement
+
+## 2. PAYMENT TERMS
+
+2.1 Fees
+Fees are based on the pricing schedule in the SOW and are billed monthly in advance on the first day of each month.
+
+2.2 Billing and Payment
+- Invoices are due within 30 days of invoice date
+- Payments should be made via ACH, wire transfer, or credit card
+- Late payments accrue interest at 1.5% per month or the maximum rate allowed by law
+
+2.3 Taxes
+All fees are exclusive of applicable taxes. Customer is responsible for any sales, VAT, or other taxes applicable to the Services.
+
+## 3. CONFIDENTIALITY
+
+3.1 Definition
+"Confidential Information" means non-public information disclosed by one party that is marked as confidential or reasonably understood to be confidential.
+
+3.2 Obligations
+Each party agrees to:
+- Maintain confidentiality of Confidential Information
+- Use it only for purposes of this Agreement
+- Limit access to employees with a need to know
+- Protect it with reasonable security measures
+
+3.3 Exceptions
+Confidentiality obligations do not apply to information that is:
+- Publicly available
+- Independently developed
+- Received from third parties without confidentiality obligations
+- Required to be disclosed by law
+
+## 4. LIABILITY LIMITATIONS
+
+4.1 Disclaimer of Warranties
+EXCEPT AS EXPRESSLY PROVIDED, THE COMPANY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+4.2 Limitation of Liability
+EXCEPT FOR BREACHES OF CONFIDENTIALITY OR IP INFRINGEMENT, NEITHER PARTY SHALL BE LIABLE FOR:
+- Indirect, incidental, special, or consequential damages
+- Lost profits, data, or business opportunities
+- Damages exceeding fees paid in prior 12 months
+- Costs of substitute goods or services
+
+4.3 Maximum Liability
+Total liability for either party shall not exceed the fees paid by Customer in the 12 months preceding the claim.
+
+## 5. TERMINATION
+
+5.1 Term
+This Agreement begins on the Effective Date and continues for one year, automatically renewing for additional one-year terms unless either party provides 30 days written notice of non-renewal.
+
+5.2 Termination for Cause
+Either party may terminate immediately if:
+- The other party materially breaches and fails to cure within 30 days of written notice
+- The other party becomes insolvent or bankrupt
+
+5.3 Termination for Convenience
+Customer may terminate for convenience with 60 days written notice and payment of:
+- All fees through the notice period
+- 25% of remaining contract value, if any
+
+5.4 Effect of Termination
+Upon termination:
+- Customer must stop using Services
+- Company will return or delete Confidential Information
+- Provisions 3, 4, and 6 survive termination
+
+## 6. GOVERNING LAW AND DISPUTE RESOLUTION
+
+6.1 Governing Law
+This Agreement is governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+6.2 Jurisdiction
+Both parties consent to exclusive jurisdiction in the state and federal courts located in San Francisco County, California.
+
+6.3 Arbitration
+Any disputes arising from this Agreement shall be resolved through binding arbitration administered by JAMS in San Francisco under its Streamlined Arbitration Rules. The arbitrator's decision is final and binding.
+
+6.4 Attorney Fees
+The prevailing party in any legal action shall be entitled to recover reasonable attorney fees and costs.
+
+## 7. DATA PROTECTION
+
+7.1 Data Processing
+Company processes Customer Data in accordance with the Data Processing Addendum (DPA) attached as Appendix B.
+
+7.2 Security
+Company implements industry-standard security measures including:
+- Encryption at rest and in transit
+- Regular security audits
+- Access controls and logging
+- Incident response procedures
+
+7.3 Data Breach Notification
+Company will notify Customer of data breaches within 48 hours of discovery.

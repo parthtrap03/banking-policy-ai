@@ -1,0 +1,209 @@
+# RBI DIGITAL PAYMENT GUIDELINES AND UPI REGULATIONS
+# Reserve Bank of India
+# National Payments Corporation of India (NPCI)
+# Consolidated Reference Document
+
+## CHAPTER 1: UNIFIED PAYMENTS INTERFACE (UPI) FRAMEWORK
+
+### 1.1 Overview
+The Unified Payments Interface (UPI) is a real-time payment system developed by the National Payments Corporation of India (NPCI) under the regulatory oversight of the Reserve Bank of India (RBI).
+UPI facilitates inter-bank peer-to-peer and person-to-merchant transactions through mobile devices.
+As of 2025, UPI operates in 25 countries including Singapore, Bhutan, Malaysia, UAE, France, Oman, Qatar, Mauritius, and Israel.
+
+### 1.2 Transaction Limits
+
+Standard UPI Transaction Limits:
+- General person-to-person (P2P) transactions: Rs. 1,00,000 per transaction
+- Hospitals and educational institutions: Rs. 5,00,000 per transaction (increased from Rs. 1,00,000 in December 2023)
+- Tax payments via UPI: Rs. 5,00,000 per transaction (increased from Rs. 1,00,000 in August 2024)
+- IPO applications: Rs. 5,00,000 per transaction (from December 2021)
+- Capital markets, insurance, and mutual funds: Enhanced limits applicable
+
+UPI Lite (On-Device Wallet) Limits:
+- Per-transaction maximum: Rs. 500 (proposed increase to Rs. 1,000)
+- Wallet balance limit: Rs. 2,000 (proposed increase to Rs. 5,000)
+- Daily spending cap: Rs. 4,000
+- Auto top-up: Maximum 5 times daily
+
+UPI 123PAY (Feature Phone) Limits:
+- Transaction limit: Rs. 10,000 (increased from Rs. 5,000 in October 2024)
+
+UPI Circle (Delegated Payments) Limits:
+- Monthly limit per secondary user: Approximately Rs. 15,000
+- Per-transaction limit: Approximately Rs. 5,000
+- Maximum 5 secondary users per primary user
+
+### 1.3 KYC and Authentication Requirements
+
+User Verification:
+- KYC-linked mobile number is mandatory for creation of Virtual Payment Address (VPA)
+- Multi-factor authentication required for transactions exceeding Rs. 1,00,000 for credit card repayments, mutual funds, and insurance premiums
+- Four-digit or six-digit UPI PIN is standard for transaction authentication
+- Two-factor authentication flow mandatory for UPI 123PAY peer-to-peer transactions
+
+Biometric Authentication:
+- Biometric identification proposed using fingerprints on Android and Face ID on iPhones
+- Secondary users require app passcodes and biometric verification
+
+UPI One World (International Visitors):
+- Passport and valid visa required for KYC verification
+- Available through approved Prepaid Payment Instrument (PPI) issuers at airports, hotels, and money exchange sites
+- Foreign exchange restrictions apply to unused balances (returnable to original payment source)
+
+### 1.4 Merchant Guidelines
+
+Market Share Restrictions:
+- Third-party payment providers limited to 30% market share calculated on a rolling 3-month basis
+- Calculation baseline: 1 January 2021
+- Compliance deadline extended to December 2024 for major providers
+- Non-compliance triggers penalties under UPI procedural guidelines
+
+Merchant Discount Rate (MDR):
+- MDR was nullified in 2019 by the Ministry of Finance to encourage adoption of digital payments for low-value transactions
+- RBI is considering reintroduction of MDR for economic sustainability of payment service providers
+
+Bank Participation:
+- 304 banks linked to UPI platform as of February 2022
+- Payment Service Providers (PSPs) operate their own mobile applications
+- Issuers may rely on third-party software for transaction processing
+
+## CHAPTER 2: COMPLAINT AND DISPUTE RESOLUTION
+
+### 2.1 Transaction Failure Resolution
+- Real-time feature reducing fund release time from 24 hours to 30 seconds for transaction declines (launched September 2022)
+- Online dispute resolution capabilities mandatory across all UPI transactions
+- RBI mandates compensation for unsuccessful transactions through authorized payment methods
+
+### 2.2 Grievance Redressal Framework
+- Level 1: Payment Service Provider (PSP) app-level grievance mechanism
+- Level 2: Bank-level nodal officer
+- Level 3: RBI Ombudsman for Digital Transactions
+- Complaints must be resolved within 30 days
+
+### 2.3 Transaction Visibility
+- All secondary user transactions must appear on primary user's bank statement and UPI app
+- Transaction history must be maintained for minimum 10 years
+
+## CHAPTER 3: SECURITY REQUIREMENTS
+
+### 3.1 Authentication Mechanisms
+- Four-digit or six-digit UPI PIN standard for all transactions
+- Dual Tone Multi-Frequency (DTMF) signaling for voice-based payments via UPI 123PAY
+- Multi-factor authentication activated for mandates exceeding Rs. 1,00,000
+- Device binding mandatory for UPI app registration
+
+### 3.2 System Controls (Effective August 2025)
+- Daily limits on balance enquiry and "list accounts" API calls to prevent abuse
+- Regulated processing window for autopay mandate scheduling
+- Technical and operational restrictions to enhance system stability and reduce fraud
+- System limits on API calls to prevent overload attacks
+
+### 3.3 Data Storage and Localisation
+- All payment system data must be stored only in India (RBI data localisation directive, April 2018)
+- Payment System Operators must ensure entire data relating to payment systems operated by them is stored in a system only in India
+- This includes full end-to-end transaction details, information collected, carried, processed as part of the message or payment instruction
+- Foreign leg of transactions may be stored abroad but domestic data must have a copy in India
+
+## CHAPTER 4: RBI DIGITAL LENDING GUIDELINES
+
+### 4.1 Digital Lending Framework (Effective September 2022)
+The RBI issued comprehensive guidelines for digital lending covering:
+(a) All lending done through digital channels including apps and web platforms
+(b) Lending facilitated by Lending Service Providers (LSPs) on behalf of Regulated Entities (REs)
+(c) Lending by Default Loss Guarantee (FLDG) arrangements
+
+### 4.2 Key Requirements
+- Loan disbursement must be directly into borrower's bank account (not through third-party pool accounts)
+- All fees and charges must be disclosed upfront to the borrower
+- Cooling-off period: Borrowers have the right to exit digital loans by repaying principal and proportionate APR without penalty
+- Key Fact Statement (KFS) must be provided to borrower before loan execution containing:
+  * Annual Percentage Rate (APR)
+  * Recovery mechanism
+  * Grievance redressal details
+  * Cooling-off period details
+
+### 4.3 Data Collection Restrictions
+- Digital lending apps can only collect data with explicit borrower consent
+- Data collection limited to what is necessary for the purpose
+- Biometric data collection prohibited
+- Access to mobile phone resources (contacts, photos, storage) prohibited unless necessary for the lending service
+- One-time access permitted with explicit consent for specific purposes only
+
+### 4.4 FLDG (First Loss Default Guarantee) Guidelines
+- Maximum FLDG cap: 5% of the loan portfolio of the respective RE
+- FLDG may be in the form of cash deposit, fixed deposit, or bank guarantee
+- FLDG arrangements must be in written contracts
+
+## CHAPTER 5: PREPAID PAYMENT INSTRUMENTS (PPI)
+
+### 5.1 Types of PPIs
+(a) Small PPIs: Maximum balance Rs. 10,000, can be issued with minimum KYC
+(b) Full-KYC PPIs: Maximum balance Rs. 2,00,000
+(c) PPIs for Mass Transit Systems: Maximum balance Rs. 3,000
+
+### 5.2 KYC Requirements for PPIs
+- Minimum KYC PPIs: OTP-based verification, limited functionality
+- Full KYC PPIs: Aadhaar-based e-KYC, video-based KYC, or in-person verification
+- Interoperability mandatory for full-KYC PPIs (can be used across merchants and for P2P transfers)
+
+### 5.3 Loading Limits
+- Cash loading at PPI agent locations: Maximum Rs. 50,000 per month
+- Loading from bank account: As per PPI category limits
+- PPIs cannot be loaded from credit lines (unless specifically permitted by RBI)
+
+## CHAPTER 6: KNOW YOUR CUSTOMER (KYC) NORMS
+
+### 6.1 Customer Due Diligence
+RBI KYC Master Direction requires:
+(a) Customer identification and verification using Officially Valid Documents (OVDs):
+  - Passport
+  - Driving License
+  - Voter's Identity Card
+  - Aadhaar (issued by UIDAI)
+  - NREGA Job Card
+  - Letter from National Population Register
+
+(b) Types of KYC:
+  - Aadhaar-based e-KYC (using OTP or biometric)
+  - Video-based Customer Identification Process (V-CIP)
+  - In-person verification
+  - Central KYC (CKYC) Registry lookup
+  - Digital KYC using Aadhaar with live photo
+
+### 6.2 Periodic KYC Updates
+- High-risk customers: KYC update every 2 years
+- Medium-risk customers: KYC update every 8 years
+- Low-risk customers: KYC update every 10 years
+- Non-compliance may result in account restrictions (partial freezing)
+
+### 6.3 Small Accounts (Simplified KYC)
+- Opened with self-certified photograph and signature/thumb impression
+- Maximum balance: Rs. 50,000
+- Maximum annual credits: Rs. 1,00,000
+- Maximum withdrawal per month: Rs. 10,000
+- Valid for 12 months (extendable to 24 months if full KYC submitted)
+
+## CHAPTER 7: RBI OMBUDSMAN FOR DIGITAL TRANSACTIONS
+
+### 7.1 Coverage
+The RBI Ombudsman Scheme covers complaints related to:
+- Mobile banking and internet banking
+- UPI transactions
+- BHIM app transactions
+- Prepaid payment instruments (wallets)
+- NEFT, RTGS, IMPS transactions
+- Card transactions (debit, credit, prepaid)
+- Aadhaar-enabled payment systems
+
+### 7.2 Complaint Filing
+- Complaints can be filed online at https://cms.rbi.org.in
+- No fee charged for filing complaints
+- Complaints must first be filed with the service provider
+- If unresolved within 30 days, or if unsatisfied with resolution, complaint may be escalated to RBI Ombudsman
+- Ombudsman must dispose of complaint within 30 days of receipt
+
+### 7.3 Liability Framework for Unauthorized Transactions
+- Zero liability: If caused by bank/system negligence, or third-party breach where customer reports within 3 working days
+- Limited liability (max Rs. 10,000): If reported between 4-7 working days
+- Full liability: If reported after 7 working days, as determined by bank policy
+- Banks must credit "shadow reversal" within 10 working days of complaint, pending investigation

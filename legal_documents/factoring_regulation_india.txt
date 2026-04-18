@@ -1,0 +1,221 @@
+FACTORING REGULATION ACT, 2011 (AS AMENDED 2021)
+(Act No. 12 of 2012, amended by Act No. 31 of 2021)
+Parliament of India
+
+## Chapter I – Preliminary
+
+### Section 1: Short Title and Commencement
+This Act may be called the Factoring Regulation Act, 2011.
+It extends to the whole of India.
+
+### Section 2: Definitions
+(a) "Assignee" means any person in whose favour an assignment of receivables is made by the assignor.
+(b) "Assignor" means any person who makes an assignment of receivables in favour of the assignee.
+(c) "Debtor" means any person who is liable to the assignor for payment of a receivable, whether or not the assignor has made an assignment of such receivable.
+(d) "Factor" means a bank or a non-banking financial company as defined under the Reserve Bank of India Act, 1934, which has been granted a certificate of registration under Section 3, or any other person notified by the Central Government.
+(e) "Factoring Business" means the business of acquisition of receivables of an assignor by accepting assignment of such receivables or by financing, whether by way of making loans or advances or otherwise against the security interest over any receivables.
+(f) "Receivable" means a payment claim arising out of, or in relation to, a contract for supply of goods or services or both by a person against consideration, including book debts, bills of exchange, promissory notes, and other negotiable instruments.
+(g) "Registration Authority" means the Central Registry set up under Section 20 of SARFAESI Act, 2002.
+
+### Section 3: Registration of Factors
+(1) No company shall commence or carry on factoring business unless it obtains a certificate of registration from the Reserve Bank of India.
+(2) Every company which intends to commence factoring business shall apply to the Reserve Bank with prescribed documents and fees.
+(3) The Reserve Bank shall grant the registration if:
+    (a) The company has a minimum net owned fund of Rs. 5 crore (or as prescribed).
+    (b) The company is a fit and proper person.
+    (c) General public interest warrants registration.
+
+### Section 4: Filing of Particulars of Transactions
+Every factor shall file transaction particulars with the Registration Authority (Central Registry) within 30 days of the assignment.
+
+## Chapter II – Assignment of Receivables
+
+### Section 5: Assignment of Receivables
+(1) Any assignor may assign (by way of sale, pledge, or otherwise) any receivable to a factor.
+(2) The assignment shall be valid and enforceable notwithstanding any agreement between the assignor and the debtor which restricts or prohibits such assignment (Anti-Assignment Clause Override).
+(3) The assignor shall give notice of assignment to the debtor in the prescribed manner.
+
+### Section 6: Notice to Debtor
+(1) A notice of assignment shall be sent by the factor or the assignor to the debtor.
+(2) The notice must contain the identity of the factor, the assignment details, the outstanding amount, and direction for payment to the factor.
+(3) Until the debtor receives such notice, the debtor is entitled to discharge the debt by paying the assignor.
+
+### Section 7: Obligations of Assignor
+(1) The assignor warrants that:
+    (a) The receivable exists and is valid.
+    (b) The assignor has the right to assign it.
+    (c) The goods/services underlying the receivable have been delivered or performed.
+(2) The assignor shall not assign the same receivable to more than one factor (prohibition on double assignment).
+
+### Section 8: Priority of Assignments
+(1) Where the same receivable is assigned to two or more factors, priority shall be determined based on the date and time of registration with the Central Registry.
+(2) A registered assignment has priority over an unregistered one.
+
+### Section 9: Rights of the Factor
+(1) After assignment, the factor shall have all rights of the assignor in relation to the receivable.
+(2) The factor may collect the receivable, enforce it against the debtor, and exercise all remedies available to the assignor.
+(3) The debtor's defences and set-offs against the assignor may be raised against the factor only if they arose before notice was received.
+
+## Chapter III – TReDS (Trade Receivables Discounting System)
+
+### Section 10: TReDS Platform
+(1) The Reserve Bank of India has authorised the establishment of Trade Receivables Discounting Systems (TReDS) to facilitate financing of trade receivables of MSMEs.
+(2) As of 2024, three TReDS platforms are operational:
+    (a) RXIL (Receivables Exchange of India Limited) – promoted by SIDBI and NSE.
+    (b) M1xchange – promoted by Mynd Solutions.
+    (c) Invoicemart – promoted by Axis Bank and mjunction services.
+(3) All MSME sellers can register on a TReDS platform and upload their invoices for discounting by participating financiers (banks and NBFCs).
+
+### Section 11: TReDS Process Flow
+Step 1: The MSME seller uploads the invoice on the TReDS platform.
+Step 2: The buyer (corporate/PSU) accepts the invoice on the platform.
+Step 3: Once accepted, the invoice becomes a "factoring unit" available for auction.
+Step 4: Participating financiers bid on the factoring unit (interest rate auction).
+Step 5: The winning financier pays the MSME seller (minus discounting charges).
+Step 6: On the due date, the buyer pays the financier directly.
+Step 7: If the buyer defaults, the financier may enforce the receivable.
+
+### Section 12: TReDS Eligibility
+(1) Sellers: Must be MSMEs as defined under MSME Development Act, 2006.
+(2) Buyers: Any company, PSU, government body, or large corporate.
+(3) Financiers: Scheduled commercial banks, NBFCs with factoring license, SIDBI, and other RBI-approved entities.
+
+## Chapter IV – Types of Factoring
+
+### Section 13: Recourse Factoring
+(1) In recourse factoring, if the debtor fails to pay the receivable on the due date, the factor has the right to claim the unpaid amount from the assignor (seller).
+(2) The credit risk remains with the assignor.
+(3) Recourse factoring typically offers lower discounting rates since the factor bears less risk.
+Example: Seller A sells goods worth Rs. 10 lakh to Buyer B on 60-day credit. Seller A assigns the invoice to Factor F under recourse factoring. Factor F pays Rs. 9.5 lakh upfront (0.5 lakh = discount charge). If Buyer B does not pay on day 60, Factor F can demand the full Rs. 10 lakh from Seller A.
+
+### Section 14: Non-Recourse Factoring
+(1) In non-recourse factoring, the factor assumes the credit risk of the debtor.
+(2) If the debtor fails to pay, the factor absorbs the loss.
+(3) Non-recourse factoring typically carries higher discounting rates due to the additional credit risk borne by the factor.
+Example: Seller A assigns a Rs. 10 lakh invoice to Factor F under non-recourse factoring. Factor F pays Rs. 9.2 lakh upfront (0.8 lakh = discount charge). If Buyer B defaults, Factor F bears the entire loss.
+
+### Section 15: Reverse Factoring (Buyer-Led Factoring)
+(1) In reverse factoring, the buyer initiates the factoring arrangement with a financial institution.
+(2) The buyer's creditworthiness determines the discounting rate (not the seller's).
+(3) This is particularly beneficial for small suppliers selling to large corporates or government entities.
+(4) RBI has encouraged reverse factoring through TReDS to support MSMEs.
+Example: Large Corporate C has 500 MSME suppliers. C enters a reverse factoring arrangement with Bank B. All MSME invoices accepted by C are automatically eligible for early payment through Bank B at rates based on C's credit rating (typically lower than individual MSME rates).
+
+### Section 16: International Factoring
+(1) Cross-border factoring enables exporters to finance their international receivables.
+(2) India follows the two-factor system recommended by Factors Chain International (FCI):
+    (a) Export Factor: Located in the seller's country, handles financing and collection from the import factor.
+    (b) Import Factor: Located in the buyer's country, handles credit risk assessment and collection from the buyer.
+(3) EXIM Bank of India and several commercial banks offer export factoring services.
+(4) The Factoring Regulation Act applies to international factoring where the assignor is located in India.
+
+## Chapter V – Fees, Charges, and Limits
+
+### Section 17: Typical Fee Structure
+(1) Factoring Discount Rate: Usually 1% to 3% per month on the invoice value, depending on:
+    (a) Creditworthiness of the debtor (buyer).
+    (b) Invoice tenure (30, 60, 90, or 120 days).
+    (c) Type of factoring (recourse vs. non-recourse).
+    (d) Volume of invoices assigned.
+(2) Service/Processing Fee: 0.5% to 1.5% of the invoice value (one-time).
+(3) Late Payment Fee: If the debtor pays after the due date, the factor may charge additional interest (typically 2% to 4% per annum above the discounting rate).
+(4) TReDS Platform Fee: Rs. 500 to Rs. 1,000 per transaction (varies by platform).
+
+### Section 18: Transaction Limits
+(1) Minimum Invoice Value on TReDS: Rs. 25,000 (as per RXIL and M1xchange guidelines).
+(2) Maximum Exposure per MSME Seller: Determined by the financier based on the buyer's credit limits.
+(3) RBI has not prescribed a statutory cap on factoring exposure, but banks must comply with Large Exposure Framework (LEF) norms.
+
+## Chapter VI – Penalties and Offences
+
+### Section 19: Penalty for Carrying on Factoring Business Without Registration
+Any company carrying on factoring business without registration shall be punishable with:
+(a) Fine not less than Rs. 5,000 and up to Rs. 5 lakh for every day of contravention.
+(b) Imprisonment up to 3 years if the contravention is wilful and repeated.
+
+### Section 20: Penalty for Non-Filing of Transactions
+Failure to file transaction particulars with the Central Registry within the prescribed time shall render the assignment void against third parties.
+
+### Section 21: Penalty for Double Assignment
+If an assignor assigns the same receivable to more than one factor:
+(a) The second assignment is void if the first is registered.
+(b) The assignor shall be liable for fraud and may be punished with imprisonment up to 2 years and fine up to Rs. 1 crore.
+
+## Chapter VII – Consumer Protection and Dispute Resolution
+
+### Section 22: Debtor's Rights
+(1) The debtor retains all rights and defences against the factor that existed against the assignor at the time notice was received.
+(2) The debtor may raise:
+    (a) Defective goods/services claims.
+    (b) Set-off of amounts owed by the assignor to the debtor.
+    (c) Any other contractual defence.
+
+### Section 23: Dispute Resolution
+(1) Disputes between the factor and the assignor/debtor may be referred to:
+    (a) Arbitration (if provided in the factoring agreement).
+    (b) Debt Recovery Tribunal (DRT) – for claims above Rs. 20 lakh.
+    (c) MSME Facilitation Council – for disputes involving MSME suppliers.
+(2) The factor may also invoke the SARFAESI Act for enforcement of security interests.
+
+### Section 24: Grievance Redressal
+(1) Every factor must establish an internal grievance redressal mechanism.
+(2) Complaints must be resolved within 30 days.
+(3) If unresolved, the aggrieved party may escalate to:
+    (a) RBI Ombudsman (for regulated entities).
+    (b) Consumer Forum / National Consumer Disputes Redressal Commission.
+
+## Chapter VIII – 2021 Amendment Highlights
+
+### Section 25: Key Changes in 2021 Amendment
+(1) Definition of "Factor" expanded to include any NBFC registered with RBI (not just NBFC-Factors).
+(2) All NBFCs engaged in acquisition of receivables now covered under the Act.
+(3) TReDS participation widened to include all financiers registered under the Act.
+(4) Anti-Assignment Clause Override strengthened: Any contractual clause prohibiting assignment of receivables is void if the assignment is to a registered factor.
+(5) Central Registry filing made mandatory for all factoring transactions (not just those above a threshold).
+(6) Penalties for non-registration increased.
+
+## Chapter IX – RBI Guidelines on Factoring (Circular RBI/2023-24/XX)
+
+### Section 26: Prudential Norms for Factoring
+(1) Banks and NBFCs engaged in factoring must maintain:
+    (a) Capital Adequacy Ratio (CAR) of at least 15% (for NBFCs).
+    (b) Adequate provisioning for non-performing factored receivables (as per IRAC norms).
+(2) Non-Performing Assets (NPA): A factored receivable becomes NPA if the debtor fails to pay within 90 days of the due date.
+(3) Income Recognition: Income from factoring transactions shall be recognised on accrual basis, except for NPA accounts.
+
+### Section 27: KYC and AML Requirements
+(1) Factors must perform KYC on both the assignor (seller) and the debtor (buyer).
+(2) Transactions above Rs. 10 lakh require enhanced due diligence.
+(3) Suspicious Transaction Reports (STRs) must be filed with the Financial Intelligence Unit (FIU-IND) within 7 days.
+
+### Section 28: Fair Practices Code for Factoring
+(1) Every factor must adopt a Fair Practices Code (FPC) that includes:
+    (a) Transparent communication of all charges and fees before assignment.
+    (b) Providing a Key Fact Statement (KFS) to the assignor before each transaction containing:
+        - Effective Annual Rate (EAR).
+        - Total charges (discount, processing, late payment).
+        - Recourse/Non-recourse terms.
+        - Dispute resolution mechanism.
+    (c) Prohibition on imposing unfair terms or conditions.
+    (d) Right of the assignor to receive a complete account statement on demand.
+
+## Chapter X – Comparison with International Frameworks
+
+### Section 29: India vs. Global Factoring Norms
+(1) UNIDROIT Convention on International Factoring (Ottawa Convention, 1988):
+    - India has not ratified this convention but its domestic law largely conforms to it.
+    - Key principle: Assignment of receivables is effective between the parties even without debtor's consent.
+
+(2) UK – Factors and Discounters Association:
+    - No specific factoring regulation; governed by common law of assignment.
+    - London Approach: Non-recourse factoring is more common in the UK.
+
+(3) USA – Uniform Commercial Code (Article 9):
+    - Assignment of receivables governed by UCC Article 9 (Secured Transactions).
+    - Filing a UCC-1 financing statement creates a perfected security interest.
+    - Anti-assignment clauses are generally overridden under UCC § 9-406.
+
+(4) EU – Directive 2015/2366 (PSD2) and Factoring Practices:
+    - EU does not have a specific Factoring Directive.
+    - Factoring is regulated under general banking and financial services regulations.
+    - The European Factoring Association (EFA) publishes best practice guidelines.

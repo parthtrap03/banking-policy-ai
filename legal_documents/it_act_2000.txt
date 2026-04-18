@@ -1,0 +1,184 @@
+# INFORMATION TECHNOLOGY ACT, 2000
+# Act No. 21 of 2000
+# Enacted by Parliament of India on 9 June 2000
+# Commenced: 17 October 2000
+# Major Amendment: Information Technology (Amendment) Act, 2008
+
+## CHAPTER 1: PRELIMINARY
+
+### Section 1: Short Title, Extent, Commencement and Application
+This Act may be called the Information Technology Act, 2000.
+It extends to the whole of India and also applies to any offence or contravention committed outside India by any person irrespective of his nationality.
+The Act comprises 94 sections across 13 chapters with 4 schedules.
+India became the 12th nation with separate IT legislation following this Act's passage, based on UNCITRAL's E-commerce Model Law principles.
+
+### Section 2: Definitions
+(a) "Computer" means any electronic, magnetic, optical or other high-speed data processing device which performs logical, arithmetic, and memory functions by manipulations of electronic, magnetic or optical impulses.
+(b) "Computer Network" means the interconnection of one or more computers through the use of satellite, microwave, terrestrial line, wire, wireless or other communication media.
+(c) "Computer System" means a device or collection of devices, including input and output support devices.
+(d) "Data" means a representation of information, knowledge, facts, concepts or instructions.
+(e) "Electronic Record" means data, record or data generated, image or sound stored, received or sent in an electronic form.
+(f) "Intermediary" means any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record. Includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online auction sites, online market places, and cyber cafes.
+(g) "Digital Signature" means authentication of any electronic record by a subscriber by means of an electronic method.
+
+## CHAPTER 2: DIGITAL SIGNATURES AND ELECTRONIC SIGNATURES
+
+### Section 3: Authentication of Electronic Records
+Any subscriber may authenticate an electronic record by affixing his digital signature.
+The authentication shall be effected by the use of asymmetric crypto system and hash function.
+
+### Section 3A: Electronic Signature
+Notwithstanding anything contained in Section 3, any subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which is considered reliable.
+
+## CHAPTER 3: ELECTRONIC GOVERNANCE
+
+### Section 4: Legal Recognition of Electronic Records
+Where any law provides that information or any other matter shall be in writing or in the typewritten or printed form, then such requirement shall be deemed to have been satisfied if such information is rendered or made available in an electronic form and accessible for subsequent reference.
+
+### Section 5: Legal Recognition of Digital Signatures
+Where any law provides that information shall be authenticated by affixing the signature, then such requirement shall be deemed to have been satisfied if the information is authenticated by means of digital signature.
+
+## CHAPTER 5: CONTROLLER OF CERTIFYING AUTHORITIES
+
+### Section 17-34: Certifying Authorities
+The Central Government shall appoint a Controller of Certifying Authorities for the purposes of this Act.
+The Controller shall exercise supervision over the activities of the Certifying Authorities.
+Every Certifying Authority shall follow certain procedures including maintenance of a repository of all digital signature certificates issued.
+
+## CHAPTER 9: PENALTIES, COMPENSATION AND ADJUDICATION
+
+### Section 43: Penalty and Compensation for Damage to Computer System
+If any person without permission of the owner or any other person in charge of a computer:
+(a) Accesses or secures access to such computer system;
+(b) Downloads, copies or extracts any data from such computer;
+(c) Introduces any computer contaminant or virus;
+(d) Damages or causes to be damaged any computer system;
+(e) Disrupts or causes disruption of any computer system;
+(f) Denies or causes the denial of access to any person authorised to access;
+(g) Provides assistance to any person to facilitate access;
+(h) Charges the services availed of by one person to another person;
+(i) Destroys, deletes, or alters any information residing in a computer;
+(j) Steals, conceals, destroys or alters any computer source code;
+He shall be liable to pay damages by way of compensation to the person so affected.
+Compensation amount: As determined by the adjudicating officer, which may extend to Rs. 5 crore.
+
+### Section 43A: Compensation for Failure to Protect Data
+Where a body corporate, possessing, dealing or handling any sensitive personal data or information in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.
+
+## CHAPTER 11: OFFENCES
+
+### Section 65: Tampering with Computer Source Documents
+Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy, or alter any computer source code used for a computer program shall be punishable with imprisonment up to three years, or with fine which may extend to two lakh rupees, or with both.
+
+### Section 66: Computer Related Offences (Hacking)
+If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.
+
+### Section 66A: Sending Offensive Messages [STRUCK DOWN]
+This section was declared UNCONSTITUTIONAL by the Supreme Court of India on 24 March 2015 in Shreya Singhal v. Union of India.
+The Supreme Court held that Section 66A was "arbitrarily, excessively and disproportionately invades the right of free speech" under Article 19(1)(a) of the Constitution.
+Notable cases before striking down:
+- Cartoonist Aseem Trivedi arrested (September 2012) for anti-corruption cartoons
+- Professor Ambikesh Mahapatra arrested (April 2012) for sharing political cartoon
+- Businessman Ravi Srinivasan arrested (October 2012) for tweet alleging corruption
+- Two Palghar girls arrested (November 2012) for Facebook post
+
+### Section 66B: Punishment for Dishonestly Receiving Stolen Computer Resource
+Whoever dishonestly receives or retains any stolen computer resource or communication device shall be punished with imprisonment up to three years or fine up to one lakh rupees or both.
+
+### Section 66C: Punishment for Identity Theft
+Whoever, fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment up to three years and fine up to one lakh rupees.
+
+### Section 66D: Punishment for Cheating by Personation using Computer Resource
+Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment up to three years and fine up to one lakh rupees.
+
+### Section 66E: Punishment for Violation of Privacy
+Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his consent, shall be punished with imprisonment up to three years or fine up to two lakh rupees or both.
+
+### Section 66F: Punishment for Cyber Terrorism
+(1) Whoever with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people:
+(a) Denies access to a computer resource to an authorised person;
+(b) Attempts to penetrate a computer resource without authorisation;
+(c) Introduces any computer contaminant likely to cause death or injuries to persons or damage to property;
+Shall be punishable with imprisonment which may extend to imprisonment for life.
+
+### Section 67: Punishment for Publishing Obscene Material
+Whoever publishes or transmits obscene material in electronic form shall be punished:
+First conviction: imprisonment up to three years and fine up to five lakh rupees.
+Second conviction: imprisonment up to five years and fine up to ten lakh rupees.
+
+### Section 67A: Punishment for Publishing Material Containing Sexually Explicit Act
+Imprisonment up to five years on first conviction and up to seven years on subsequent conviction, with fine up to ten lakh rupees.
+
+### Section 67B: Punishment for Publishing Child Sexual Abuse Material
+Imprisonment up to five years on first conviction and up to seven years on subsequent conviction with fine up to ten lakh rupees.
+
+### Section 67C: Preservation and Retention of Information by Intermediaries
+Intermediary shall preserve and retain such information as may be specified for such duration as specified by the Central Government. Failure: imprisonment up to three years with fine.
+
+### Section 69: Powers to Issue Directions for Interception or Monitoring
+The Central Government may direct any agency to intercept, monitor or decrypt any information generated, transmitted, received or stored in any computer resource if it is satisfied that it is necessary in the interest of:
+(a) Sovereignty or integrity of India;
+(b) Defence of India;
+(c) Security of the State;
+(d) Friendly relations with foreign States;
+(e) Public order;
+(f) Preventing incitement to the commission of any cognisable offence.
+Failure to comply: imprisonment up to seven years with fine.
+
+In December 2018, the Ministry of Home Affairs authorized ten central agencies to intercept, monitor, and decrypt information using Section 69.
+
+### Section 69A: Power to Issue Directions for Blocking Public Access
+The Central Government may direct any agency or intermediary to block public access to any information in any computer resource.
+Notable applications:
+- 29 June 2020: 59 Chinese apps banned including TikTok
+- 24 November 2020: 43 additional Chinese apps banned including AliExpress
+- 14 February 2022: 54 more apps banned including Garena Free Fire
+
+### Section 70: Protected Systems
+The Government may declare any computer resource which directly or indirectly affects the facility of Critical Information Infrastructure to be a protected system.
+Unauthorised access: imprisonment up to ten years with fine.
+
+### Section 72: Breach of Confidentiality and Privacy
+Any person who has secured access to any electronic record, book, register, correspondence, information, document or material under this Act and discloses it without consent shall be punished with imprisonment up to two years or fine up to one lakh rupees or both.
+
+### Section 72A: Punishment for Disclosure of Information in Breach of Lawful Contract
+Any person including an intermediary who, while providing services under a lawful contract, has secured access to personal information and discloses it without consent and causes wrongful loss or gain shall be punished with imprisonment up to three years or fine up to five lakh rupees or both.
+
+## CHAPTER 12: INTERMEDIARY LIABILITY
+
+### Section 79: Exemption from Liability of Intermediary
+(1) An intermediary shall not be liable for any third-party information, data, or communication link made available or hosted by him.
+(2) This exemption applies where:
+(a) The function is limited to providing access to a communication system;
+(b) The intermediary does not initiate the transmission, select the receiver, or select or modify the information;
+(c) The intermediary observes due diligence while discharging duties under this Act.
+(3) This exemption shall not apply if:
+(a) The intermediary has conspired, abetted, or induced the commission of the unlawful act;
+(b) Upon receiving actual knowledge or notification by the Government, the intermediary fails to expeditiously remove or disable access to that material.
+
+## SECONDARY LEGISLATION
+
+### Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+These rules superseded the Intermediary Guidelines Rules 2011 and impose obligations on social media intermediaries including:
+- Due diligence requirements
+- Grievance redressal mechanisms
+- Compliance reporting
+- Content moderation obligations
+- Significant Social Media Intermediaries (with over 5 million users) must appoint Chief Compliance Officer, Nodal Contact Person, and Resident Grievance Officer (all based in India)
+
+### Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011
+These rules define sensitive personal data including:
+- Passwords
+- Financial information (bank account, credit/debit card details)
+- Physical, physiological and mental health condition
+- Sexual orientation
+- Medical records and history
+- Biometric information
+
+## PROPOSED REPLACEMENT: DIGITAL INDIA ACT
+In 2022, the Government proposed the Digital India Act to comprehensively replace the IT Act 2000 with broader coverage of privacy, social media regulation, OTT platforms, and emerging technologies including AI.
+
+## RELATED LEGISLATION (2023)
+- Bharatiya Nyaya Sanhita replaces IPC offences
+- Bharatiya Sakshya Adhiniyam addresses digital evidence
+- Bharatiya Nagrik Suraksha Sanhita covers criminal procedure

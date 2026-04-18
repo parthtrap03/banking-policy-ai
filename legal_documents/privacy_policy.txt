@@ -1,0 +1,119 @@
+# PRIVACY POLICY
+
+Last Updated: January 1, 2024
+
+## 1. INFORMATION WE COLLECT
+
+1.1 Information You Provide
+- Account information: name, email, company
+- Payment information: billing address (payment details processed by secure third parties)
+- Communications: support requests, feedback
+- Usage data: logs of your use of Services
+
+1.2 Information Collected Automatically
+- Device information: IP address, browser type, operating system
+- Usage analytics: pages visited, time spent, features used
+- Cookies and similar technologies
+
+## 2. HOW WE USE YOUR INFORMATION
+
+We use information for:
+- Providing and improving Services
+- Billing and payment processing
+- Customer support
+- Security and fraud prevention
+- Legal compliance
+- Marketing (with your consent)
+
+## 3. DATA RETENTION
+
+3.1 Retention Periods
+- Account data: retained during active account and 30 days after termination
+- Transactional data: retained for 7 years for tax and legal purposes
+- Usage logs: retained for 12 months
+- Deleted data: removed from active systems within 48 hours, backups within 90 days
+
+3.2 Your Right to Delete
+You may request deletion of your personal data except where:
+- Required by law
+- Necessary for service provision
+- Needed for business operations
+
+## 4. DATA SHARING
+
+4.1 We Do Not Sell Data
+We do not sell, trade, or rent personal information.
+
+4.2 Third Parties
+We may share information with:
+- Service providers (hosting, payment processing, support)
+- Legal authorities (required by law)
+- Business partners (with your consent)
+
+4.3 Data Processing Agreements
+All service providers are bound by Data Processing Agreements requiring confidentiality and appropriate security.
+
+## 5. YOUR PRIVACY RIGHTS
+
+5.1 Access
+You have the right to access your personal data.
+
+5.2 Correction
+You can request correction of inaccurate information.
+
+5.3 Deletion
+You can request deletion, subject to legal retention requirements.
+
+5.4 Portability
+You have the right to receive your data in a structured, portable format.
+
+5.5 Opt-Out
+You can opt out of marketing communications at any time.
+
+## 6. GDPR COMPLIANCE
+
+For residents of the EU, we comply with GDPR including:
+- Lawful basis for processing
+- Data Protection Impact Assessments
+- Data Protection Officer contact
+- Rights regarding profiling and automated decision-making
+
+## 7. CCPA COMPLIANCE
+
+For California residents, we comply with CCPA including:
+- Disclosure of information practices
+- Right to know what personal information is collected
+- Right to delete personal information
+- Right to opt-out of sale or sharing
+
+## 8. COOKIES AND TRACKING
+
+8.1 Cookie Usage
+We use cookies for:
+- Session management
+- User preferences
+- Analytics
+- Marketing
+
+8.2 Cookie Control
+You can disable cookies in your browser, though this may affect functionality.
+
+8.3 Do Not Track
+We honor Do Not Track signals in your browser.
+
+## 9. SECURITY
+
+We implement:
+- Encryption of data in transit and at rest
+- Access controls
+- Regular security assessments
+- Employee training
+- Incident response procedures
+
+However, no security is 100% guaranteed.
+
+## 10. CONTACT US
+
+For privacy questions or requests:
+- Email: privacy@company.com
+- Response time: 30 days

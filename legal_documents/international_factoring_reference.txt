@@ -1,0 +1,131 @@
+INTERNATIONAL FACTORING FRAMEWORKS – REFERENCE GUIDE
+Compiled for Banking Policy Intelligence Platform
+
+## 1. UNIDROIT CONVENTION ON INTERNATIONAL FACTORING (OTTAWA, 1988)
+
+### Article 1: Scope
+(1) This Convention applies to factoring contracts and assignments of receivables arising from international trade.
+(2) The Convention applies when:
+    (a) The supplier and debtor have their places of business in different States.
+    (b) The States are Contracting States under this Convention.
+    (c) The receivables arise from a contract of sale of goods between the supplier and debtor.
+
+### Article 2: Definition of Factoring Contract
+A factoring contract means a contract between one party (the supplier) and another party (the factor) pursuant to which:
+(a) The supplier may assign receivables to the factor.
+(b) The factor shall perform at least two of the following functions:
+    - Finance for the supplier (including loans and advance payments).
+    - Maintenance of accounts relating to the receivables.
+    - Collection of receivables.
+    - Protection against default in payment by debtors.
+
+### Article 5: Anti-Assignment Clause Override
+An assignment of a receivable by the supplier to the factor shall be effective notwithstanding any agreement between the supplier and the debtor prohibiting such assignment.
+Note: India's Factoring Regulation Act 2011 (Section 5) mirrors this provision.
+
+### Article 6: Notice to Debtor
+The debtor is bound to pay the factor if and only if:
+(a) The debtor has received written notice from the supplier or the factor.
+(b) The notice identifies the factor and the receivable assigned.
+(c) The notice relates to receivables arising from a sale of goods contract.
+
+### Article 9: Debtor's Defences
+The debtor may raise against the factor all defences arising from the contract of sale that the debtor could have raised against the supplier, but only if those defences arose before the notice of assignment was received.
+
+## 2. UNITED STATES – UNIFORM COMMERCIAL CODE (UCC), ARTICLE 9
+
+### Section 9-102: Definitions
+(a) "Account" means a right to payment of a monetary obligation, whether or not earned by performance, for property sold, licensed, or otherwise disposed of, or for services rendered.
+(b) "Account Debtor" means a person obligated on an account.
+(c) "Secured Party" includes a person in whose favour a security interest has been created or provided for (includes a factor).
+
+### Section 9-204: After-Acquired Property
+A security agreement may create a security interest in after-acquired collateral, including future receivables. This means a factor can obtain a security interest in all present and future receivables of the seller under a single agreement.
+
+### Section 9-310: Filing Required
+(a) A financing statement (UCC-1) must be filed with the appropriate state authority to perfect a security interest in receivables.
+(b) Filing provides constructive notice to third parties and establishes priority.
+(c) The financing statement is effective for 5 years and must be renewed.
+
+### Section 9-406: Discharge of Account Debtor
+(a) The account debtor may discharge its obligation by paying the assignee (factor) after receiving notice of assignment.
+(b) An agreement between the account debtor and the original creditor (seller) that prohibits or restricts assignment is generally ineffective under Article 9.
+Comparison with India: India's Factoring Regulation Act 2011 (Section 5) similarly overrides anti-assignment clauses, but only for assignments to registered factors.
+
+### Section 9-607: Collection and Enforcement of Receivables
+After default, a secured party (factor) may:
+(a) Notify an account debtor to make payment directly to the factor.
+(b) Take any proceeds to which the factor is entitled.
+(c) Enforce the receivable through legal proceedings.
+
+## 3. EUROPEAN UNION – FACTORING PRACTICES
+
+### 3.1 EU Regulatory Framework
+(a) There is no single EU Directive specifically governing factoring.
+(b) Factoring is regulated under general banking and financial services legislation:
+    - Capital Requirements Directive (CRD IV) / Capital Requirements Regulation (CRR).
+    - Payment Services Directive (PSD2) – for aspects related to payment processing.
+    - General Data Protection Regulation (GDPR) – for data-related obligations.
+(c) Individual member states may have additional national regulations.
+
+### 3.2 European Factoring Association (EFA) Best Practices
+(a) Transparency: Full disclosure of all charges, fees, and conditions before entering into a factoring agreement.
+(b) Fair Treatment: Factors should treat assignors and debtors fairly and in compliance with consumer protection laws.
+(c) Data Protection: Compliance with GDPR for processing personal data related to factoring transactions.
+(d) Dispute Resolution: Factors should have internal complaint handling procedures and offer access to alternative dispute resolution (ADR) mechanisms.
+
+### 3.3 Key EU Member State Approaches
+(a) Germany:
+    - Factoring regulated under KWG (Banking Act).
+    - Factors must be licensed by BaFin (Federal Financial Supervisory Authority).
+    - Assignment of receivables: Governed by BGB (Civil Code), §398-§413.
+    - Anti-assignment clauses: Generally enforceable in Germany (unlike India and the US), except for certain types of trade receivables under the Handelsgesetzbuch (Commercial Code).
+
+(b) France:
+    - Factoring regulated under the Monetary and Financial Code (Code Monétaire et Financier).
+    - The "Dailly Law" (Loi Dailly) provides a simplified mechanism for assignment of professional receivables.
+    - Assignment under the Dailly Law is effective against third parties from the date of the "bordereau" (deed of assignment) and does not require notice to the debtor.
+
+(c) United Kingdom (post-Brexit):
+    - Factoring regulated under common law of assignment and the Factors Act 1889.
+    - No specific licensing requirement for factors (unlike India and Germany).
+    - Anti-assignment clauses: Governed by common law; generally enforceable unless the contract specifies otherwise.
+    - The UK has the largest factoring market in Europe (approximately GBP 325 billion in 2023).
+
+## 4. FACTORS CHAIN INTERNATIONAL (FCI) – TWO-FACTOR SYSTEM
+
+### 4.1 Overview
+(a) FCI is the global association of factoring companies, with over 400 members in 90 countries.
+(b) FCI's General Rules for International Factoring (GRIF) govern cross-border factoring transactions between FCI members.
+(c) FCI operates the edifactoring.com platform for electronic data interchange between export and import factors.
+
+### 4.2 Two-Factor Model
+Step 1: The exporter (seller) enters into a factoring agreement with the Export Factor (in the exporter's country).
+Step 2: The Export Factor contacts the Import Factor (in the buyer's country) and requests a credit guarantee for the buyer.
+Step 3: The Import Factor assesses the buyer's creditworthiness and issues a credit approval (guarantee) for a specified amount.
+Step 4: The exporter ships goods and assigns the invoice to the Export Factor.
+Step 5: The Export Factor advances funds to the exporter (typically 80% of invoice value).
+Step 6: The Import Factor collects payment from the buyer on the due date.
+Step 7: The Import Factor remits the collected amount to the Export Factor (less a commission of 0.5% to 2.0%).
+Step 8: The Export Factor releases the retained margin to the exporter.
+
+### 4.3 FCI Rules – Key Provisions
+(a) Credit Risk: The Import Factor guarantees payment within 90 days of the due date (or reports default).
+(b) Dispute Handling: If the buyer raises a dispute, the Import Factor investigates and reports to the Export Factor within 14 days.
+(c) Currency Risk: Each factor bears the currency risk on its side of the transaction.
+(d) Termination: Either factor may terminate the arrangement with 90 days' written notice.
+
+## 5. COMPARISON TABLE – INDIA VS. INTERNATIONAL
+
+| Feature | India (Factoring Regulation Act 2011) | USA (UCC Article 9) | EU (Various) | UNIDROIT Convention |
+|---------|--------------------------------------|---------------------|--------------|---------------------|
+| Registration Required | Yes (RBI registration mandatory) | Filing of UCC-1 financing statement | Varies by country (Germany: BaFin license; UK: No specific license) | Not applicable (treaty-level) |
+| Anti-Assignment Override | Yes (Section 5) | Yes (Section 9-406) | Varies (Germany: limited; France: Dailly Law; UK: common law) | Yes (Article 5) |
+| Notice to Debtor | Required (Section 6) | Required for account debtor discharge (Section 9-406) | Varies by country | Required (Article 6) |
+| Priority of Assignments | First-to-register (Central Registry) | First-to-file (UCC-1) | Varies by country | First-to-assign or first-to-register (depends on national law) |
+| NPA Classification | 90 days past due (RBI norms) | Governed by internal bank policies and OCC/FDIC rules | Governed by EBA guidelines (90 days past due under CRR) | Not specified |
+| Consumer Protection | MSME Facilitation Council, RBI Ombudsman | Consumer Financial Protection Bureau (CFPB) for consumer receivables | GDPR, national consumer laws | Limited (focused on trade receivables) |
+| Data Protection | DPDP Act 2023 | Various state privacy laws (CCPA, etc.) | GDPR | Not addressed |
+| Dispute Resolution | Arbitration, DRT, MSME Council | Arbitration, state/federal courts | ADR, national courts | National courts of Contracting States |
+| TReDS / Electronic Platform | Yes (RXIL, M1xchange, Invoicemart) | No government-mandated platform | No government-mandated platform | Not addressed |
+| MSME-Specific Protections | Yes (45-day payment mandate, TReDS priority) | Limited (SBA programs) | Limited (EU Late Payment Directive 2011/7/EU) | Not addressed |
