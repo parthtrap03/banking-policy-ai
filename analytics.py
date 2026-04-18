@@ -8,19 +8,42 @@ SQLite-based analytics for:
 - Gap identification (unanswered questions)
 """
 
+import os
 import sqlite3
 import json
+import tempfile
 from datetime import datetime
 from typing import Dict, List, Optional
 from pathlib import Path
 
 
+def _default_db_path() -> str:
+    """Pick a writable default: env override, else local file if writable,
+    else fall back to the system temp dir (e.g. Streamlit Cloud /mount/src is
+    read-only — writing ./analytics.db there raises OperationalError)."""
+    override = os.getenv("ANALYTICS_DB_PATH")
+    if override:
+        return override
+    local = Path("./analytics.db").resolve()
+    try:
+        local.parent.mkdir(parents=True, exist_ok=True)
+        with open(local, "a"):
+            pass
+        return str(local)
+    except OSError:
+        return str(Path(tempfile.gettempdir()) / "banking_policy_analytics.db")
+
+
 class AnalyticsEngine:
     """Tracks queries, feedback, and usage patterns"""
 
-    def __init__(self, db_path: str = './analytics.db'):
-        self.db_path = db_path
-        self._init_db()
+    def __init__(self, db_path: Optional[str] = None):
+        self.db_path = db_path or _default_db_path()
+        self.enabled = True
+        try:
+            self._init_db()
+        except sqlite3.OperationalError:
+            self.enabled = False
 
     def _init_db(self):
         """Create tables if they don't exist"""
@@ -76,48 +99,56 @@ class AnalyticsEngine:
         confidence: str = 'Medium',
         retrieval_method: str = 'Hybrid',
     ) -> int:
-        """Log a query and return the query ID"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
+        """Log a query and return the query ID (0 if analytics disabled)."""
+        if not self.enabled:
+            return 0
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
 
-        cursor.execute('''
-            INSERT INTO queries (timestamp, question, intent_category, answer,
-                               sources_json, num_sources, response_time_ms,
-                               confidence, retrieval_method)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (
-            datetime.now().isoformat(),
-            question,
-            intent_category,
-            answer,
-            json.dumps(sources, default=str),
-            len(sources),
-            response_time_ms,
-            confidence,
-            retrieval_method,
-        ))
+            cursor.execute('''
+                INSERT INTO queries (timestamp, question, intent_category, answer,
+                                   sources_json, num_sources, response_time_ms,
+                                   confidence, retrieval_method)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (
+                datetime.now().isoformat(),
+                question,
+                intent_category,
+                answer,
+                json.dumps(sources, default=str),
+                len(sources),
+                response_time_ms,
+                confidence,
+                retrieval_method,
+            ))
 
-        query_id = cursor.lastrowid
-        conn.commit()
-        conn.close()
-
-        return query_id
+            query_id = cursor.lastrowid
+            conn.commit()
+            conn.close()
+            return query_id
+        except sqlite3.OperationalError:
+            self.enabled = False
+            return 0
 
     def log_feedback(self, query_id: int, rating: int, comment: str = '') -> None:
         """
         Log user feedback for a query.
         rating: 1 (thumbs up) or -1 (thumbs down)
         """
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-
-        cursor.execute('''
-            INSERT INTO feedback (query_id, timestamp, rating, comment)
-            VALUES (?, ?, ?, ?)
-        ''', (query_id, datetime.now().isoformat(), rating, comment))
-
-        conn.commit()
-        conn.close()
+        if not self.enabled:
+            return
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            cursor.execute('''
+                INSERT INTO feedback (query_id, timestamp, rating, comment)
+                VALUES (?, ?, ?, ?)
+            ''', (query_id, datetime.now().isoformat(), rating, comment))
+            conn.commit()
+            conn.close()
+        except sqlite3.OperationalError:
+            self.enabled = False
 
     def get_stats(self) -> Dict:
         """Get overall analytics statistics"""
