@@ -1,0 +1,253 @@
+SOURCE: https://en.wikipedia.org/wiki/Forfaiting
+
+From Wikipedia, the free encyclopedia
+Financial support for export/import
+Not to be confused with
+Forfeiting (disambiguation)
+.
+This article
+needs additional citations for
+verification
+.
+Please help
+improve this article
+by
+adding citations to reliable sources
+. Unsourced material may be challenged and removed.
+Find sources:
+"Forfaiting"
+–
+news
+·
+newspapers
+·
+books
+·
+scholar
+·
+JSTOR
+(
+November 2009
+)
+(
+Learn how and when to remove this message
+)
+In
+trade finance
+,
+forfaiting
+is a service providing medium-term financial support for export/import of
+capital goods
+. The third party providing the support is termed the forfaiter. The forfaiter provides medium-term finance to, and will commonly also take on certain risks from, the importer; and takes on all risk from the exporter, in return for a margin. Payment may be by
+negotiable instrument
+, enabling the forfaiter to lay off some risks.
+[
+1
+]
+Like
+factoring
+, forfaiting involves sale of financial assets from the seller's
+receivables
+. Key differences are that forfaiting supports the buyer (importer) as well as the seller (exporter), and is available only for export/import transactions and in relation to capital goods.
+[
+2
+]
+Terminology
+[
+edit
+]
+The word
+forfaiting
+is derived from the
+French
+word
+forfait
+, meaning to relinquish the right (in this case, the exporter's right to receive payment from the customer — the importer).
+[
+3
+]
+Thus forfaiting is also referred to as "without recourse" financing.
+[
+4
+]
+Characteristics
+[
+edit
+]
+The characteristics of a forfaiting transaction are:
+Credit is extended to the importer for a period of between 180 days and seven years.
+The minimum bill size is normally $250,000, although $500,000 is preferred.
+The payment is normally receivable in any major convertible currency.
+A
+letter of credit
+or a guarantee is made by a bank, usually in the importer's country.
+The contract can be for either goods or services. Typical usage relates to the sale of capital goods.
+[
+5
+]
+At its simplest, the receivables should be evidenced by a promissory note, a bill of exchange, a deferred-payment letter of credit, or a letter of forfaiting.
+[
+6
+]
+[
+7
+]
+Pricing
+[
+edit
+]
+Three elements relate to the pricing of a forfaiting transaction:
+Discount rate, the interest element, usually quoted as a margin over
+LIBOR
+.
+[
+8
+]
+Days of grace, added to the actual number of days until maturity for the purpose of covering the number of days normally experienced in the transfer of payment, applicable to the country of risk.
+Commitment fee, applied from the date the forfaiter is committed to undertake the financing, until the date of discounting.
+The benefits to the exporter from forfaiting include eliminating political, transfer, and commercial risks and improving cash flows.
+[
+9
+]
+The benefit to the forfaiter is the extra margin on the loan to the exporter.
+Professional associations
+[
+edit
+]
+The oldest forfaiting association in the world is VEFI, the Association of Forfaiters in
+Switzerland
+(
+German
+:
+Vereinigung von forfaitierenden Instituten in der Schweiz
+), which was founded in 1978.
+[
+10
+]
+The International Trade & Forfaiting Association (ITFA)
+[
+11
+]
+was founded in 1999 as a worldwide trade association for the forfaiting industry with a cash contribution from VEFI.
+[
+12
+]
+Its purpose is to develop business relationships and assist other forfaiting-related organizations.
+[
+13
+]
+See also
+[
+edit
+]
+Look up
+forfait
+in Wiktionary, the free dictionary.
+Banker's acceptance
+Letter of credit
+References
+[
+edit
+]
+^
+A.I. Trade Finance, Inc. v. Laminaciones de Lesaca, S.A.
+, 41 F.3d 830 (2d Cir. 1994).
+^
+J. Downes, J.E. Goodman, "Dictionary of Finance & Investment Terms", Baron's Financial Guides, 2003; and J.G. Siegel, N. Dauber & J.K. Shim,
+The Vest Pocket CPA
+, Wiley, 2005.
+^
+Treasury Today,
+Forfaiting
+Archived
+2018-12-30 at the
+Wayback Machine
+, published September 2008, accessed 7 July 2018
+^
+HMRC
+,
+VATFIN3235 - Credit, debts and related services: debts and related services: forfaiting
+,
+VAT Finance Manual
+, updated on 5 May 2020, accessed on 28 August 2025
+^
+Mezra Finance Ltd.,
+What is Forfaiting?
+, archived on 14 July 2015, accessed on 28 August 2025
+^
+"What Forfaiting Means for Importers and Exporters"
+.
+Investopedia
+. Retrieved
+2021-09-11
+.
+^
+"Bills of Receivables, Bills of Exchange & Promissory note | OracleUG"
+.
+www.oracleug.com
+. Retrieved
+2021-09-11
+.
+^
+Pathak, Bharati V. (2010).
+The Indian Financial System: Markets, Institutions and Services
+. Pearson Education India.
+ISBN
+978-81-317-2817-8
+.
+^
+"Foreifting and Factoring Benefits for Exporters and Exporter's Banker"
+.
+www.eximguru.com
+. Retrieved
+2021-09-11
+.
+^
+Welcome to the VEFI-Website!
+Archived
+2022-08-08 at the
+Wayback Machine
+, accessed 7 July 2018
+^
+Digital, Logix.
+"ITFA"
+. Retrieved
+7 March
+2017
+.
+^
+"» About Us"
+. Retrieved
+2021-09-11
+.
+^
+"Guidelines on Risk Factors_EN_04-01-2018.pdf"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 2022-04-23
+. Retrieved
+2021-09-11
+.
+Authority control databases
+National
+United States
+Czech Republic
+Israel
+Other
+Yale LUX
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Forfaiting&oldid=1308210858
+"
+Categories
+:
+Business terms
+International finance
+Hidden categories:
+Webarchive template wayback links
+Articles with short description
+Short description is different from Wikidata
+Articles needing additional references from November 2009
+All articles needing additional references
+Articles containing German-language text

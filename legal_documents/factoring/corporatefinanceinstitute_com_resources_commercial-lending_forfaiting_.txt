@@ -1,0 +1,170 @@
+SOURCE: https://corporatefinanceinstitute.com/resources/commercial-lending/forfaiting/
+
+Home
+›
+Resources
+›
+Commercial Lending
+›
+Forfaiting
+Table of Contents
+What is Forfaiting?
+Characteristics of a Forfaiting Transaction
+Major Sources of Export Financing
+What Information Does a Forfaiter Need?
+Documents Required by the Forfaiter from the Exporter
+Learn More
+Forfaiting
+The provision of medium-term financial support for the import and export of capital goods
+Written by
+CFI Team
+Published
+November 8, 2020
+Read Time
+3
+                                                      minutes
+Over 2.8 million + professionals use CFI to learn accounting, financial analysis, modeling and more. Unlock the essentials of corporate finance with our free resources and get an exclusive sneak peek at the first module of each course.
+Start Free
+What is Forfaiting?
+Forfaiting is the provision of medium-term financial support for the import and export of capital goods. The forfaiter is a third party to transactions that takes on certain risks from importers and exporters in return for a margin. The forfaiter operates similarly to a central clearing counterparty in the
+OTC markets
+.
+Forfaiting is originally a French word, meaning to relinquish a right. The term implies a transaction where the forfaiter purchases claims (receivables) from the exporter in return for cash payment.
+Summary
+Forfaiting is the provision of medium-term financial support for the import and export of capital goods.
+Major sources of export financing are working capital financing, countertrade, factoring, and forfaiting.
+Forfaiting is a mechanism where the exporter surrenders his rights to receive payment against the goods and services rendered to the importer, in exchange for a cash payment from the forfeiter.
+Characteristics of a Forfaiting Transaction
+The common characteristics of a forfaiting transaction could be:
+The minimum bill size is either $250,000 or $500,000
+The length of credit extended to the importer ranges from six months to seven years
+It is receivable in any major convertible currency, e.g., USD, CAD, EUR, etc.
+A contract for goods and services
+A written letter of credit or a guarantee is made by a bank, usually in the importer’s country
+Major Sources of Export Financing
+1. Working Capital Financing
+Banks may provide short-term loans that finance the working capital cycle from the purchase of inventory until the eventual conversion to cash. It is a way to access
+debt financing
+through a loan that is taken to finance a company’s everyday operations. Such a form of debt financing restricts the deployment of capital on long-term assets, such as property, plant, and equipment (PP&E), or other long term investments.
+2. Countertrade
+Countertrades are foreign trade transactions where the sale of goods to a country can be linked to the purchase of exchange of goods from the same country. The most common types include bartering, product buy-backs, and counter-purchase. Such a method of international trade is more common in
+developing countries
+with limits on foreign exchange or credit facilities.
+3. Factoring
+Factoring is an arrangement that can help increase liquidity for transactors by offering the conversion of receivables into ready cash. In factoring arrangements, trade receivables on ordinary goods are sold, with financing up to 90% with or without recourse. The factoring arrangements do not involve negotiable instruments or take place in the secondary market.
+Factoring refers to a method of managing book debt, in which a business receives advances against the account’s receivables, from a bank or financial institution. The three parties involved in factoring are the seller, customer, and the factor.
+4. Forfaiting
+Forfaiting is a mechanism where the exporter surrenders his rights to receive payment against the goods and services rendered to the importer in exchange for a cash payment from the forfaiter. Through forfaiting, the exporter can easily convert a credit sale into a cash sale, without recourse to him or his forfaiter.
+In forfaiting arrangements, the trade receivables must involve capital goods and are financed up to 100% without recourse. The arrangements can involve dealing with
+negotiable instruments
+.
+What Information Does a Forfaiter Need?
+The forfaiter requires the following information to participate in the transaction:
+The identity of the buyer
+Buyer’s nationality
+Nature of goods sold
+Detail of the value
+Currency of contract
+Date and duration of the contract
+Credit terms
+Payment schedule
+Interest rate
+Know what evidence of debt will be used, e.g., promissory notes, bills of exchange, letter of credit, etc.
+The identity of the guarantor of payment
+Documents Required by the Forfaiter from the Exporter
+Copy of supply contract, or its payment’s terms
+Copy of shipping documents, including airway bill,
+bill of lading
+, certificates of receipt, railway bill, or equivalent documents
+Copy of signed commercial invoice
+Letter of assignment and notification to the guarantor
+Letter of guarantee
+Learn More
+CFI offers the
+Commercial Banking & Credit Analyst (CBCA)™
+certification program for those looking to take their careers to the next level. To keep learning and advancing your career, the following resources will be helpful:
+Letter of Guarantee
+Promissory Note
+Standby Letter of Credit (SBLC)
+Working Capital Cycle
+See all commercial lending resources
+Get Certified for Commercial Banking (CBCA®)
+Stand out and gain a competitive edge as a commercial banker, loan officer, or credit analyst with advanced knowledge, real-world analysis skills, and career confidence.
+Learn More
+Share this article
+Corporate Finance Institute
+Back to Website
+0 search results for ‘
+’
+People also search for:
+excel
+power bi
+esg
+accounting
+balance sheet
+fmva
+real estate
+Explore Our Certifications
+Financial Modeling & Valuation Analyst (FMVA)®
+Commercial Banking & Credit Analyst (CBCA)®
+Capital Markets & Securities Analyst (CMSA)®
+Certified Business Intelligence & Data Analyst (BIDA)®
+Financial Planning & Wealth Management Professional (FPWMP)®
+FinTech Industry Professional (FTIP)®
+Resources
+Mastering Excel Shortcuts for PC and Mac
+Work Smarter in Excel with Keyboard Shortcuts
+If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...
+Financial Modeling Guidelines
+CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...
+SQL Data Types
+What are SQL Data Types?
+The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...
+Structured Query Language (SQL)
+What is Structured Query Language (SQL)?
+Structured Query Language (known as SQL) is a programming language used to interact with a database....
+See All Resources
+See All
+Popular Courses
+BIDA Prep Course
+2h 14min
+Excel Fundamentals - Formulas for Finance
+FMVA Required
+3h 15min
+3-Statement Modeling
+FMVA Required
+3h 9min
+Introduction to Business Valuation
+FMVA Required
+48min
+Scenario & Sensitivity Analysis in Excel
+FMVA Required
+1h 30min
+Excel Data Visualization and Dashboards
+4h 33min
+Leveraged Buyout (LBO) Modeling
+See All Courses
+See All
+Recent Searches
+Suggestions
+Excel Courses
+Financial Modeling & Valuation Analyst (FMVA)®
+×
+Create a free account to unlock this Template
+Access and download collection of free Templates to help power your productivity and performance.
+Create a Free Account
+Already have an account?
+Log in
+×
+Supercharge your skills with Premium Templates
+Take your learning and productivity to the next level with our Premium Templates.
+Upgrading to a paid membership gives you access to our extensive collection of plug-and-play Templates designed to power your performance—as well as CFI's full course catalog and accredited Certification Programs.
+Discover Paid Memberships
+Already have a Self-Study or Full-Immersion membership?
+Log in
+×
+Access Exclusive Templates
+Gain unlimited access to more than 250 productivity Templates, CFI's full course catalog and accredited Certification Programs, hundreds of resources, expert reviews and support, the chance to work with real-world finance and research tools, and more.
+Discover Full-Immersion Membership
+Already have a Full-Immersion membership?
+Log in

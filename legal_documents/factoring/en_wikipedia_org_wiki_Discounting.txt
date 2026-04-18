@@ -1,0 +1,517 @@
+SOURCE: https://en.wikipedia.org/wiki/Discounting
+
+From Wikipedia, the free encyclopedia
+When a creditor delays payments from a debtor in exchange for a fee
+For "discounting" in the sense of downplaying or dismissing, see
+minimisation (psychology)
+. For other uses, see
+Discount (disambiguation)
+.
+In
+finance
+,
+discounting
+is a mechanism in which a
+debtor
+obtains the right to delay
+payments
+to a
+creditor
+, for a defined period of time, in exchange for a charge or
+fee
+.
+[
+1
+]
+Essentially, the party that owes money in the present purchases the right to delay the payment until some future date.
+[
+2
+]
+This
+transaction
+is based on the fact that most people prefer current
+interest
+to delayed interest because of
+mortality
+effects,
+impatience
+effects, and
+salience
+effects.
+[
+3
+]
+The
+discount
+, or
+charge
+, is the difference between the original amount owed in the present and the amount that has to be paid in the future to settle the
+debt
+.
+[
+1
+]
+The discount is usually associated with a
+discount rate
+, which is also called the
+discount yield
+.
+[
+1
+]
+[
+2
+]
+[
+4
+]
+The discount yield is the proportional share of the initial amount owed (initial liability) that must be paid to delay payment for 1 year.
+Discount yield
+=
+Charge to delay payment for 1 year
+debt liability
+{\displaystyle {\text{Discount yield}}={\frac {\text{Charge to delay payment for 1 year}}{\text{debt liability}}}}
+Since a person can earn a return on money invested over some period of time, most economic and financial models assume the discount yield is the same as the
+rate of return
+the person could receive by investing this money elsewhere (in assets of similar
+risk
+) over the given period of time covered by the delay in payment.
+[
+1
+]
+[
+2
+]
+[
+5
+]
+The concept is associated with the
+opportunity cost
+of not having use of the money for the period of time covered by the delay in payment. The relationship between the discount yield and the
+rate of return
+on other financial assets is usually discussed in economic and financial theories involving the inter-relation between various
+market prices
+, and the achievement of
+Pareto optimality
+through the operations in the
+capitalistic price mechanism
+,
+[
+2
+]
+as well as in the discussion of the
+efficient (financial) market hypothesis
+.
+[
+1
+]
+[
+2
+]
+[
+6
+]
+The person delaying the payment of the current liability is essentially compensating the person to whom he/she owes money for the lost revenue that could be earned from an investment during the time period covered by the delay in payment.
+[
+1
+]
+Accordingly, it is the relevant "discount yield" that determines the "discount", and not the other way around.
+As indicated, the rate of return is usually calculated in accordance to an annual
+return on investment
+. Since an investor earns a return on the original principal amount of the investment as well as on any prior period investment income, investment earnings are "compounded" as time advances.
+[
+1
+]
+[
+2
+]
+Therefore, considering the fact that the "discount" must match the benefits obtained from a similar
+investment asset
+, the "discount yield" must be used within the same compounding mechanism to negotiate an increase in the size of the "discount" whenever the time period of the payment is delayed or extended.
+[
+2
+]
+[
+6
+]
+The "discount rate" is the rate at which the "discount" must grow as the delay in payment is extended.
+[
+7
+]
+This fact is directly tied into the
+time value of money
+and its calculations.
+[
+1
+]
+The present value of $1,000, 100 years into the future. Curves representing constant discount rates of 2%, 3%, 5%, and 7%
+The "time value of money" indicates there is a difference between the "future value" of a payment and the "present value" of the same payment. The rate of return on investment should be the dominant factor in evaluating the market's assessment of the difference between the future value and the present value of a payment; and it is the market's assessment that counts the most.
+[
+6
+]
+Therefore, the "discount yield", which is predetermined by a related
+return on investment
+that is found in the different markets in the financial sector, is what is used within the time-value-of-money calculations to determine the "discount" required to delay payment of a financial liability for a given period of time.
+Basic calculation
+[
+edit
+]
+If we consider the value of the original payment presently due to be
+P
+, and the debtor wants to delay the payment for
+t
+years, then a market
+rate of return
+denoted
+r
+on a similar
+investment asset
+means the future value of
+P
+is
+P
+(
+1
++
+r
+)
+t
+{\displaystyle P(1+r)^{t}}
+,
+[
+2
+]
+[
+7
+]
+and the discount can be calculated as
+Discount
+=
+P
+(
+1
++
+r
+)
+t
+−
+P
+.
+{\displaystyle {\text{Discount}}=P(1+r)^{t}-P.}
+[
+2
+]
+We wish to calculate the
+present value
+, also known as the "discounted value" of a payment. Note that a payment made in the future is worth less than the same payment made today which could immediately be deposited into a bank account and earn interest, or invest in other assets. Hence we must discount future payments. Consider a payment
+F
+that is to be made
+t
+years in the future, we calculate the present value as
+P
+=
+F
+(
+1
++
+r
+)
+t
+{\displaystyle P={\frac {F}{(1+r)^{t}}}}
+[
+2
+]
+Suppose that we wanted to find the present value, denoted
+PV
+of $100 that will be received in five years time. If the interest rate
+r
+is 12% per year then
+P
+V
+=
+$
+100
+(
+1
++
+0.12
+)
+5
+=
+$
+56.74.
+{\displaystyle {\rm {PV}}={\frac {\$100}{(1+0.12)^{5}}}=\$56.74.}
+Discount rate
+[
+edit
+]
+The discount rate which is used in financial calculations is usually chosen to be equal to the
+cost of capital
+. The cost of capital, in a financial market equilibrium, will be the same as the market
+rate of return
+on the financial asset mixture the firm uses to finance capital investment. Some adjustment may be made to the discount rate to take account of risks associated with uncertain cash flows, with other developments.
+The discount rates typically applied to different types of companies show significant differences:
+Start-ups seeking money: 50–100%
+Early start-ups: 40–60%
+Late start-ups: 30–50%
+Mature companies: 10–25%
+The higher discount rate for start-ups reflects the various disadvantages they face, compared to established companies:
+Reduced marketability of ownerships because stocks are not traded publicly
+Small number of investors willing to invest
+High risks associated with start-ups
+Overly optimistic forecasts by enthusiastic founders
+One method that looks into a correct discount rate is the
+capital asset pricing model
+. This model takes into account three variables that make up the discount rate:
+Risk free rate
+: The percentage of return generated by investing in risk free securities such as government bonds.
+Beta
+: The measurement of how a company's stock price reacts to a change in the market. A beta higher than 1 means that a change in share price is exaggerated compared to the rest of shares in the same market. A beta less than 1 means that the share is stable and not very responsive to changes in the market. Less than 0 means that a share is moving in the opposite direction from the rest of the shares in the same market.
+Equity market risk premium
+: The return on investment that investors require above the risk free rate.
+Discount rate
+= (risk free rate) + beta * (equity market risk premium)
+Discount factor
+[
+edit
+]
+The
+discount factor
+,
+DF(T)
+, is the factor by which a future cash flow must be multiplied in order to obtain the present value. For a zero-rate (also called spot rate)
+r
+, taken from a
+yield curve
+, and a time to cash flow
+T
+(in years), the discount factor is:
+D
+F
+(
+T
+)
+=
+1
+(
+1
++
+r
+T
+)
+.
+{\displaystyle DF(T)={\frac {1}{(1+rT)}}.}
+In the case where the only discount rate one has is not a zero-rate (neither taken from a
+zero-coupon bond
+nor converted from a
+swap rate
+to a zero-rate through
+bootstrapping
+) but an annually-compounded rate (for example if the benchmark is a US Treasury bond with annual coupons) and one only has its
+yield to maturity
+, one would use an annually-compounded discount factor:
+D
+F
+(
+T
+)
+=
+1
+(
+1
++
+r
+)
+T
+.
+{\displaystyle DF(T)={\frac {1}{(1+r)^{T}}}.}
+However, when operating in a bank, where the amount the bank can lend (and therefore get interest) is linked to the value of its
+assets
+(including
+accrued interest
+), traders usually use daily compounding to discount cash flows. Indeed, even if the interest of the bonds it holds (for example) is paid semi-annually, the value of its book of bond will increase daily, thanks to
+accrued interest
+being accounted for, and therefore the bank will be able to re-invest these daily accrued interest (by lending additional money or buying more financial products). In that case, the discount factor is then (if the usual
+money market
+day count convention
+for the currency is ACT/360, in case of currencies such as
+United States dollar
+,
+euro
+,
+Japanese yen
+), with
+r
+the zero-rate and
+T
+the time to cash flow in years:
+D
+F
+(
+T
+)
+=
+1
+(
+1
++
+r
+360
+)
+360
+T
+{\displaystyle DF(T)={\frac {1}{(1+{\frac {r}{360}})^{360T}}}}
+or, in case the market convention for the currency being discounted is ACT/365 (
+AUD
+,
+CAD
+,
+GBP
+):
+D
+F
+(
+T
+)
+=
+1
+(
+1
++
+r
+365
+)
+365
+T
+.
+{\displaystyle DF(T)={\frac {1}{(1+{\frac {r}{365}})^{365T}}}.}
+Sometimes, for manual calculation, the continuously-compounded hypothesis is a close-enough approximation of the daily-compounding hypothesis, and makes calculation easier (even though its application is limited to instruments such as financial derivatives). In that case, the discount factor is:
+D
+F
+(
+T
+)
+=
+e
+−
+T
+ln
+⁡
+(
+1
++
+r
+)
+.
+{\displaystyle DF(T)=e^{-T\ln(1+r)}.\,}
+Other discounts
+[
+edit
+]
+For
+discounts
+in
+marketing
+, see
+discounts and allowances
+,
+sales promotion
+, and
+pricing
+. The article on
+discounted cash flow
+provides an example about discounting and risks in real estate investments.
+See also
+[
+edit
+]
+Coupon
+Coupon (bond)
+High-low pricing
+Hyperbolic discounting
+References
+[
+edit
+]
+Notes
+^
+a
+b
+c
+d
+e
+f
+g
+h
+See "Time Value", "Discount", "Discount Yield", "Compound Interest", "Efficient Market", "Market Value" and "Opportunity Cost" in Downes, J. and Goodman, J. E.
+Dictionary of Finance and Investment Terms
+, Baron's Financial Guides, 2003.
+^
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+See "Discount", "Compound Interest", "Efficient Markets Hypothesis", "Efficient Resource Allocation", "Pareto-Optimality", "Price", "Price Mechanism" and "Efficient Market" in Black, John,
+Oxford Dictionary of Economics
+, Oxford University Press, 2002.
+^
+Chabris, C.F.; Laibson, D.I. & Schuldt, J.P. (2008). "Intertemporal Choice".
+The New Palgrave Dictionary of Economics
+.
+^
+Here, the
+discount rate
+is different from the
+discount rate
+the nation's Central Bank charges financial institutions.
+^
+Kazmi, Kumail (February 26, 2021).
+"Discount Calculator - Find discounted product price"
+.
+Smadent.com
+. Smadent
+. Retrieved
+February 26,
+2021
+.
+Since a person can earn a return on money
+^
+a
+b
+c
+Competition from other firms who offer other financial assets that promise the market
+rate of return
+forces the person who is asking for a delay in payment to offer a "discount yield" that is the same as the market rate of return.
+^
+a
+b
+Chiang, Alpha C.
+(1984).
+Fundamental Methods of Mathematical Economics
+(Third ed.). New York: McGraw-Hill.
+ISBN
+0-07-010813-7
+.
+External links
+[
+edit
+]
+Look up
+discounting
+in Wiktionary, the free dictionary.
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Discounting&oldid=1288258292
+"
+Categories
+:
+Actuarial science
+Loans
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
