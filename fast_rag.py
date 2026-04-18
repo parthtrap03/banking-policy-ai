@@ -9,9 +9,16 @@ Cold start: ~3-5s (vs ~50s with the full system)
 """
 
 import os
+import sys
 import re
 import time
 import pickle
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 from pathlib import Path
 from typing import List, Dict, Optional
 from dotenv import load_dotenv

@@ -16,8 +16,7 @@ from pathlib import Path
 
 # Must be the first Streamlit call
 st.set_page_config(
-    page_title="Banking Policy AI",
-    page_icon="🏛️",
+    page_title="Ask FactorAvenue",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -175,6 +174,34 @@ div[data-testid="stChatMessage"]:nth-of-type(even) {
     background-color: #F8FAFC;
 }
 
+/* === CHAT INPUT (darker, visible on white bg) === */
+[data-testid="stChatInput"] {
+    background-color: #172A47 !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 14px rgba(23, 42, 71, 0.18) !important;
+}
+[data-testid="stChatInput"] > div {
+    background-color: #172A47 !important;
+    border: 1px solid #2C3E5C !important;
+    border-radius: 12px !important;
+}
+[data-testid="stChatInput"] textarea {
+    background-color: #172A47 !important;
+    color: #FFFFFF !important;
+    caret-color: #FFFFFF !important;
+}
+[data-testid="stChatInput"] textarea::placeholder {
+    color: #B8C4D6 !important;
+    opacity: 1 !important;
+}
+[data-testid="stChatInput"] button {
+    background-color: #2C3E5C !important;
+    color: #FFFFFF !important;
+}
+[data-testid="stChatInput"] button:hover {
+    background-color: #3A5278 !important;
+}
+
 </style>
 """
 
@@ -315,8 +342,8 @@ with st.sidebar:
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1>🏛️ Banking Policy Intelligence</h1>
-    <p>Ask questions about banking regulations, RBI guidelines, UPI policies, KYC norms, and more.</p>
+    <h1>Ask FactorAvenue</h1>
+    <p>Ask questions about factoring, forfaiting, RBI guidelines, TReDS, and related banking regulation.</p>
 </div>
 """, unsafe_allow_html=True)
 
